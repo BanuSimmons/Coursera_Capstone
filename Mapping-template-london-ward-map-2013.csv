@@ -1,0 +1,626 @@
+Code,Ward name,Borough name,shape,Values
+E05000026,Abbey,Barking and Dagenham,Freeform_618,128.3
+E05000027,Alibon,Barking and Dagenham,Freeform_624,136.4
+E05000028,Becontree,Barking and Dagenham,Freeform_623,128.8
+E05000029,Chadwell Heath,Barking and Dagenham,Freeform_629,338.4
+E05000030,Eastbrook,Barking and Dagenham,Freeform_628,345.1
+E05000031,Eastbury,Barking and Dagenham,Freeform_620,143.9
+E05000032,Gascoigne,Barking and Dagenham,Freeform_614,113.9
+E05000033,Goresbrook,Barking and Dagenham,Freeform_621,127.8
+E05000034,Heath,Barking and Dagenham,Freeform_626,200.1
+E05000035,Longbridge,Barking and Dagenham,Freeform_619,164.5
+E05000036,Mayesbrook,Barking and Dagenham,Freeform_622,185.6
+E05000037,Parsloes,Barking and Dagenham,Freeform_630,124.4
+E05000038,River,Barking and Dagenham,Freeform_616,354.4
+E05000039,Thames,Barking and Dagenham,Freeform_615,788.8
+E05000040,Valence,Barking and Dagenham,Freeform_625,129.3
+E05000041,Village,Barking and Dagenham,Freeform_617,214.7
+E05000042,Whalebone,Barking and Dagenham,Freeform_627,155.4
+E05000043,Brunswick Park,Barnet,Freeform_208,317.5
+E05000044,Burnt Oak,Barnet,Freeform_210,206.7
+E05000045,Childs Hill,Barnet,Freeform_196,309.3
+E05000046,Colindale,Barnet,Freeform_195,263.6
+E05000047,Coppetts,Barnet,Freeform_207,272.1
+E05000048,East Barnet,Barnet,Freeform_209,374.9
+E05000049,East Finchley,Barnet,Freeform_199,251
+E05000050,Edgware,Barnet,Freeform_200,555.7
+E05000051,Finchley Church End,Barnet,Freeform_198,272.6
+E05000052,Garden Suburb,Barnet,Freeform_197,472.7
+E05000053,Golders Green,Barnet,Freeform_194,297.3
+E05000054,Hale,Barnet,Freeform_202,542.3
+E05000055,Hendon,Barnet,Freeform_211,283.9
+E05000056,High Barnet,Barnet,Freeform_192,830.7
+E05000057,Mill Hill,Barnet,Freeform_201,938.9
+E05000058,Oakleigh,Barnet,Freeform_205,331.9
+E05000059,Totteridge,Barnet,Freeform_203,877.4
+E05000060,Underhill,Barnet,Freeform_191,455.1
+E05000061,West Finchley,Barnet,Freeform_212,216.3
+E05000062,West Hendon,Barnet,Freeform_193,342.9
+E05000063,Woodhouse,Barnet,Freeform_206,262.1
+E05000064,Barnehurst,Bexley,Freeform_308,287.7
+E05000065,Belvedere,Bexley,Freeform_298,317.5
+E05000066,Blackfen and Lamorbey,Bexley,Freeform_291,168.6
+E05000067,Blendon and Penhill,Bexley,Freeform_302,209.8
+E05000068,Brampton,Bexley,Freeform_306,196.7
+E05000069,Christchurch,Bexley,Freeform_304,255.2
+E05000070,Colyers,Bexley,Freeform_309,164.4
+E05000071,Crayford,Bexley,Freeform_295,397.2
+E05000072,Cray Meadows,Bexley,Freeform_292,719
+E05000073,Danson Park,Bexley,Freeform_303,271.3
+E05000074,East Wickham,Bexley,Freeform_301,217.3
+E05000075,Erith,Bexley,Freeform_297,475.3
+E05000076,Falconwood and Welling,Bexley,Freeform_300,167
+E05000077,Lesnes Abbey,Bexley,Freeform_310,237
+E05000078,Longlands,Bexley,Freeform_290,259.7
+E05000079,North End,Bexley,Freeform_296,568
+E05000080,Northumberland Heath,Bexley,Freeform_307,175.3
+E05000081,St. Mary's,Bexley,Freeform_294,442.9
+E05000082,St. Michael's,Bexley,Freeform_305,144.8
+E05000083,Sidcup,Bexley,Freeform_293,270.3
+E05000084,Thamesmead East,Bexley,Freeform_299,483.4
+E05000085,Alperton,Brent,Freeform_178,205.9
+E05000086,Barnhill,Brent,Freeform_175,297.9
+E05000087,Brondesbury Park,Brent,Freeform_183,172.9
+E05000088,Dollis Hill,Brent,Freeform_188,230
+E05000089,Dudden Hill,Brent,Freeform_187,168.1
+E05000090,Fryent,Brent,Freeform_176,265.9
+E05000091,Harlesden,Brent,Freeform_180,111.4
+E05000092,Kensal Green,Brent,Freeform_179,112
+E05000093,Kenton,Brent,Freeform_186,224.3
+E05000094,Kilburn,Brent,Freeform_184,94.4
+E05000095,Mapesbury,Brent,Freeform_189,139.3
+E05000096,Northwick Park,Brent,Freeform_170,268
+E05000097,Preston,Brent,Freeform_172,238.8
+E05000098,Queens Park,Brent,Freeform_182,148.6
+E05000099,Queensbury,Brent,Freeform_190,205.1
+E05000100,Stonebridge,Brent,Freeform_173,405.1
+E05000101,Sudbury,Brent,Freeform_177,212.5
+E05000102,Tokyngton,Brent,Freeform_185,275.9
+E05000103,Welsh Harp,Brent,Freeform_174,231.9
+E05000104,Wembley Central,Brent,Freeform_171,160.4
+E05000105,Willesden Green,Brent,Freeform_181,154.8
+E05000106,Bickley,Bromley,Freeform_55,486.9
+E05000107,Biggin Hill,Bromley,Freeform_48,828
+E05000108,Bromley Common and Keston,Bromley,Freeform_46,830.8
+E05000109,Bromley Town,Bromley,Freeform_54,371.7
+E05000110,Chelsfield and Pratts Bottom,Bromley,Freeform_47,1256.3
+E05000111,Chislehurst,Bromley,Freeform_61,1044.1
+E05000112,Clock House,Bromley,Freeform_50,226.6
+E05000113,Copers Cope,Bromley,Freeform_59,328.7
+E05000114,Cray Valley East,Bromley,Freeform_65,1327.9
+E05000115,Cray Valley West,Bromley,Freeform_64,393.9
+E05000116,Crystal Palace,Bromley,Freeform_57,229.1
+E05000117,Darwin,Bromley,Freeform_44,2904
+E05000118,Farnborough and Crofton,Bromley,Freeform_52,700.6
+E05000119,Hayes and Coney Hall,Bromley,Freeform_45,1082.3
+E05000120,Kelsey and Eden Park,Bromley,Freeform_51,519.9
+E05000121,Mottingham and Chislehurst North,Bromley,Freeform_62,244.2
+E05000122,Orpington,Bromley,Freeform_63,425.6
+E05000123,Penge and Cator,Bromley,Freeform_58,296
+E05000124,Petts Wood and Knoll,Bromley,Freeform_56,430.1
+E05000125,Plaistow and Sundridge,Bromley,Freeform_60,400.1
+E05000126,Shortlands,Bromley,Freeform_53,245.7
+E05000127,West Wickham,Bromley,Freeform_49,441
+E05000128,Belsize,Camden,Freeform_519,78.1
+E05000129,Bloomsbury,Camden,Freeform_507,102.1
+E05000130,Camden Town with Primrose Hill,Camden,Freeform_510,116.6
+E05000131,Cantelowes,Camden,Freeform_511,75.9
+E05000132,Fortune Green,Camden,Freeform_513,100.7
+E05000133,Frognal and Fitzjohns,Camden,Freeform_514,153
+E05000134,Gospel Oak,Camden,Freeform_515,69.2
+E05000135,Hampstead Town,Camden,Freeform_516,244.9
+E05000136,Haverstock,Camden,Freeform_520,73.2
+E05000137,Highgate,Camden,Freeform_505,323.9
+E05000138,Holborn and Covent Garden,Camden,Freeform_508,119.5
+E05000139,Kentish Town,Camden,Freeform_517,102.9
+E05000140,Kilburn,Camden,Freeform_506,68.5
+E05000141,King's Cross,Camden,Freeform_512,61.1
+E05000142,Regent's Park,Camden,Freeform_521,135
+E05000143,St. Pancras and Somers Town,Camden,Freeform_509,139.9
+E05000144,Swiss Cottage,Camden,Freeform_504,125.7
+E05000145,West Hampstead,Camden,Freeform_518,88.7
+E09000001,City of London,City of London,Freeform_631,314.9
+E05000146,Addiscombe,Croydon,Freeform_43,158.8
+E05000147,Ashburton,Croydon,Freeform_38,271.2
+E05000148,Bensham Manor,Croydon,Freeform_31,144.1
+E05000149,Broad Green,Croydon,Freeform_29,266.2
+E05000150,Coulsdon East,Croydon,Freeform_20,774.4
+E05000151,Coulsdon West,Croydon,Freeform_22,499.1
+E05000152,Croham,Croydon,Freeform_34,352.7
+E05000153,Fairfield,Croydon,Freeform_28,377.2
+E05000154,Fieldway,Croydon,Freeform_35,148.6
+E05000155,Heathfield,Croydon,Freeform_27,871.3
+E05000156,Kenley,Croydon,Freeform_24,645.6
+E05000157,New Addington,Croydon,Freeform_33,241.7
+E05000158,Norbury,Croydon,Freeform_32,251.8
+E05000159,Purley,Croydon,Freeform_25,417.5
+E05000160,Sanderstead,Croydon,Freeform_26,634.6
+E05000161,Selhurst,Croydon,Freeform_37,227.3
+E05000162,Selsdon and Ballards,Croydon,Freeform_21,639.8
+E05000163,Shirley,Croydon,Freeform_36,280.5
+E05000164,South Norwood,Croydon,Freeform_42,237.8
+E05000165,Thornton Heath,Croydon,Freeform_40,168.1
+E05000166,Upper Norwood,Croydon,Freeform_41,262.3
+E05000167,Waddon,Croydon,Freeform_23,364.8
+E05000168,West Thornton,Croydon,Freeform_30,197.1
+E05000169,Woodside,Croydon,Freeform_39,216.7
+E05000170,Acton Central,Ealing,Freeform_107,177.5
+E05000171,Cleveland,Ealing,Freeform_100,222.9
+E05000172,Dormers Wells,Ealing,Freeform_89,225.7
+E05000173,Ealing Broadway,Ealing,Freeform_104,185.7
+E05000174,Ealing Common,Ealing,Freeform_103,214.1
+E05000175,East Acton,Ealing,Freeform_93,427.6
+E05000176,Elthorne,Ealing,Freeform_95,200
+E05000177,Greenford Broadway,Ealing,Freeform_90,251.7
+E05000178,Greenford Green,Ealing,Freeform_101,338.5
+E05000179,Hanger Hill,Ealing,Freeform_108,327.7
+E05000180,Hobbayne,Ealing,Freeform_99,220.9
+E05000181,Lady Margaret,Ealing,Freeform_97,154.2
+E05000182,Northfield,Ealing,Freeform_92,154
+E05000183,North Greenford,Ealing,Freeform_91,325.7
+E05000184,Northolt Mandeville,Ealing,Freeform_98,275.7
+E05000185,Northolt West End,Ealing,Freeform_88,354.5
+E05000186,Norwood Green,Ealing,Freeform_86,379.6
+E05000187,Perivale,Ealing,Freeform_102,336.8
+E05000188,South Acton,Ealing,Freeform_105,171.9
+E05000189,Southall Broadway,Ealing,Freeform_94,161.7
+E05000190,Southall Green,Ealing,Freeform_87,158.6
+E05000191,Southfield,Ealing,Freeform_106,142.9
+E05000192,Walpole,Ealing,Freeform_96,146.6
+E05000193,Bowes,Enfield,Freeform_323,148.3
+E05000194,Bush Hill Park,Enfield,Freeform_327,252.4
+E05000195,Chase,Enfield,Freeform_311,1693.5
+E05000196,Cockfosters,Enfield,Freeform_313,1041.3
+E05000197,Edmonton Green,Enfield,Freeform_317,312.6
+E05000198,Enfield Highway,Enfield,Freeform_322,463.7
+E05000199,Enfield Lock,Enfield,Freeform_331,325.2
+E05000200,Grange,Enfield,Freeform_319,328.5
+E05000201,Haselbury,Enfield,Freeform_326,179.6
+E05000202,Highlands,Enfield,Freeform_314,508.8
+E05000203,Jubilee,Enfield,Freeform_320,392.8
+E05000204,Lower Edmonton,Enfield,Freeform_318,218.2
+E05000205,Palmers Green,Enfield,Freeform_316,194.2
+E05000206,Ponders End,Enfield,Freeform_321,354.3
+E05000207,Southbury,Enfield,Freeform_329,286.7
+E05000208,Southgate,Enfield,Freeform_325,268.7
+E05000209,Southgate Green,Enfield,Freeform_324,261.4
+E05000210,Town,Enfield,Freeform_328,223.1
+E05000211,Turkey Street,Enfield,Freeform_330,226.2
+E05000212,Upper Edmonton,Enfield,Freeform_315,264.2
+E05000213,Winchmore Hill,Enfield,Freeform_312,276.1
+E05000214,Abbey Wood,Greenwich,Freeform_289,265.7
+E05000215,Blackheath Westcombe,Greenwich,Freeform_281,213.8
+E05000216,Charlton,Greenwich,Freeform_284,203.1
+E05000217,Coldharbour and New Eltham,Greenwich,Freeform_274,254.9
+E05000218,Eltham North,Greenwich,Freeform_283,255.5
+E05000219,Eltham South,Greenwich,Freeform_275,462.6
+E05000220,Eltham West,Greenwich,Freeform_280,242.6
+E05000221,Glyndon,Greenwich,Freeform_287,170.2
+E05000222,Greenwich West,Greenwich,Freeform_279,279.2
+E05000223,Kidbrooke with Hornfair,Greenwich,Freeform_282,237.5
+E05000224,Middle Park and Sutcliffe,Greenwich,Freeform_273,329.1
+E05000225,Peninsula,Greenwich,Freeform_277,449.2
+E05000226,Plumstead,Greenwich,Freeform_286,234.2
+E05000227,Shooters Hill,Greenwich,Freeform_276,377.1
+E05000228,Thamesmead Moorings,Greenwich,Freeform_288,481.3
+E05000229,Woolwich Common,Greenwich,Freeform_285,262
+E05000230,Woolwich Riverside,Greenwich,Freeform_278,326.1
+E05000231,Brownswood,Hackney,Freeform_556,83.9
+E05000232,Cazenove,Hackney,Freeform_565,68.5
+E05000233,Chatham,Hackney,Freeform_570,90.8
+E05000234,Clissold,Hackney,Freeform_571,70
+E05000235,Dalston,Hackney,Freeform_560,92.7
+E05000236,De Beauvoir,Hackney,Freeform_557,88.8
+E05000237,Hackney Central,Hackney,Freeform_569,78
+E05000238,Hackney Downs,Hackney,Freeform_562,101.8
+E05000239,Haggerston,Hackney,Freeform_555,124.3
+E05000240,Hoxton,Hackney,Freeform_567,84
+E05000241,King's Park,Hackney,Freeform_566,182
+E05000242,Leabridge,Hackney,Freeform_563,106.4
+E05000243,Lordship,Hackney,Freeform_572,118.8
+E05000244,New River,Hackney,Freeform_564,97.8
+E05000245,Queensbridge,Hackney,Freeform_558,108
+E05000246,Springfield,Hackney,Freeform_573,95.3
+E05000247,Stoke Newington Central,Hackney,Freeform_561,71.2
+E05000248,Victoria,Hackney,Freeform_568,80.2
+E05000249,Wick,Hackney,Freeform_559,162.7
+E05000250,Addison,Hammersmith and Fulham,Freeform_465,55.5
+E05000251,Askew,Hammersmith and Fulham,Freeform_458,76.3
+E05000252,Avonmore and Brook Green,Hammersmith and Fulham,Freeform_457,89.7
+E05000253,College Park and Old Oak,Hammersmith and Fulham,Freeform_461,343.7
+E05000254,Fulham Broadway,Hammersmith and Fulham,Freeform_454,66.8
+E05000255,Fulham Reach,Hammersmith and Fulham,Freeform_463,88.2
+E05000256,Hammersmith Broadway,Hammersmith and Fulham,Freeform_456,110.3
+E05000257,Munster,Hammersmith and Fulham,Freeform_451,62.4
+E05000258,North End,Hammersmith and Fulham,Freeform_464,63.5
+E05000259,Palace Riverside,Hammersmith and Fulham,Freeform_450,148.1
+E05000260,Parsons Green and Walham,Hammersmith and Fulham,Freeform_453,89.6
+E05000261,Ravenscourt Park,Hammersmith and Fulham,Freeform_455,121.5
+E05000262,Sands End,Hammersmith and Fulham,Freeform_452,137.8
+E05000263,Shepherd's Bush Green,Hammersmith and Fulham,Freeform_460,106.8
+E05000264,Town,Hammersmith and Fulham,Freeform_462,65.1
+E05000265,Wormholt and White City,Hammersmith and Fulham,Freeform_459,90.2
+E05000266,Alexandra,Haringey,Freeform_582,261.4
+E05000267,Bounds Green,Haringey,Freeform_577,138.6
+E05000268,Bruce Grove,Haringey,Freeform_591,93.7
+E05000269,Crouch End,Haringey,Freeform_578,144
+E05000270,Fortis Green,Haringey,Freeform_576,199.1
+E05000271,Harringay,Haringey,Freeform_575,156.6
+E05000272,Highgate,Haringey,Freeform_574,249.5
+E05000273,Hornsey,Haringey,Freeform_581,105.4
+E05000274,Muswell Hill,Haringey,Freeform_580,165.3
+E05000275,Noel Park,Haringey,Freeform_583,122.6
+E05000276,Northumberland Park,Haringey,Freeform_592,188.8
+E05000277,St. Ann's,Haringey,Freeform_585,109.4
+E05000278,Seven Sisters,Haringey,Freeform_586,129.5
+E05000279,Stroud Green,Haringey,Freeform_579,109.4
+E05000280,Tottenham Green,Haringey,Freeform_587,136
+E05000281,Tottenham Hale,Haringey,Freeform_589,191.2
+E05000282,West Green,Haringey,Freeform_588,139.9
+E05000283,White Hart Lane,Haringey,Freeform_590,169.9
+E05000284,Woodside,Haringey,Freeform_584,149.7
+E05000285,Belmont,Harrow,Freeform_166,177.7
+E05000286,Canons,Harrow,Freeform_158,562.6
+E05000287,Edgware,Harrow,Freeform_169,140.3
+E05000288,Greenhill,Harrow,Freeform_153,174.5
+E05000289,Harrow on the Hill,Harrow,Freeform_150,357.2
+E05000290,Harrow Weald,Harrow,Freeform_156,459
+E05000291,Hatch End,Harrow,Freeform_162,327.9
+E05000292,Headstone North,Harrow,Freeform_154,329.6
+E05000293,Headstone South,Harrow,Freeform_163,146.8
+E05000294,Kenton East,Harrow,Freeform_167,127.9
+E05000295,Kenton West,Harrow,Freeform_164,176.5
+E05000296,Marlborough,Harrow,Freeform_155,164.7
+E05000297,Pinner,Harrow,Freeform_151,327.7
+E05000298,Pinner South,Harrow,Freeform_152,234.6
+E05000299,Queensbury,Harrow,Freeform_168,161.4
+E05000300,Rayners Lane,Harrow,Freeform_159,153
+E05000301,Roxbourne,Harrow,Freeform_160,150.6
+E05000302,Roxeth,Harrow,Freeform_149,157.5
+E05000303,Stanmore Park,Harrow,Freeform_157,445.9
+E05000304,Wealdstone,Harrow,Freeform_165,119.6
+E05000305,West Harrow,Harrow,Freeform_161,151.5
+E05000306,Brooklands,Havering,Freeform_113,420.3
+E05000307,Cranham,Havering,Freeform_122,655.5
+E05000308,Elm Park,Havering,Freeform_112,366.5
+E05000309,Emerson Park,Havering,Freeform_119,464.2
+E05000310,Gooshays,Havering,Freeform_125,775.9
+E05000311,Hacton,Havering,Freeform_117,246.5
+E05000312,Harold Wood,Havering,Freeform_121,759
+E05000313,Havering Park,Havering,Freeform_123,978.3
+E05000314,Heaton,Havering,Freeform_124,341.6
+E05000315,Hylands,Havering,Freeform_126,289.8
+E05000316,Mawneys,Havering,Freeform_115,304.3
+E05000317,Pettits,Havering,Freeform_116,395.5
+E05000318,Rainham and Wennington,Havering,Freeform_110,1688
+E05000319,Romford Town,Havering,Freeform_114,286.5
+E05000320,St. Andrew's,Havering,Freeform_118,267.7
+E05000321,South Hornchurch,Havering,Freeform_111,687.3
+E05000322,Squirrel's Heath,Havering,Freeform_120,265.1
+E05000323,Upminster,Havering,Freeform_109,2253.7
+E05000324,Barnhill,Hillingdon,Freeform_146,211.8
+E05000325,Botwell,Hillingdon,Freeform_143,436.3
+E05000326,Brunel,Hillingdon,Freeform_132,327.7
+E05000327,Cavendish,Hillingdon,Freeform_148,201.1
+E05000328,Charville,Hillingdon,Freeform_144,297.4
+E05000329,Eastcote and East Ruislip,Hillingdon,Freeform_140,406.3
+E05000330,Harefield,Hillingdon,Freeform_128,1522.7
+E05000331,Heathrow Villages,Hillingdon,Freeform_127,2352.1
+E05000332,Hillingdon East,Hillingdon,Freeform_134,359.8
+E05000333,Ickenham,Hillingdon,Freeform_135,620.4
+E05000334,Manor,Hillingdon,Freeform_139,197.4
+E05000335,Northwood,Hillingdon,Freeform_137,739.8
+E05000336,Northwood Hills,Hillingdon,Freeform_141,332.9
+E05000337,Pinkwell,Hillingdon,Freeform_142,274.8
+E05000338,South Ruislip,Hillingdon,Freeform_138,741.8
+E05000339,Townfield,Hillingdon,Freeform_145,349.8
+E05000340,Uxbridge North,Hillingdon,Freeform_133,464.1
+E05000341,Uxbridge South,Hillingdon,Freeform_131,311.4
+E05000342,West Drayton,Hillingdon,Freeform_129,349.1
+E05000343,West Ruislip,Hillingdon,Freeform_136,438.7
+E05000344,Yeading,Hillingdon,Freeform_147,232.1
+E05000345,Yiewsley,Hillingdon,Freeform_130,402.3
+E05000346,Bedfont,Hounslow,Freeform_66,444.8
+E05000347,Brentford,Hounslow,Freeform_73,318.4
+E05000348,Chiswick Homefields,Hounslow,Freeform_74,225.9
+E05000349,Chiswick Riverside,Hounslow,Freeform_84,208
+E05000350,Cranford,Hounslow,Freeform_68,272.6
+E05000351,Feltham North,Hounslow,Freeform_77,338.4
+E05000352,Feltham West,Hounslow,Freeform_75,318.1
+E05000353,Hanworth,Hounslow,Freeform_67,323.3
+E05000354,Hanworth Park,Hounslow,Freeform_76,366.1
+E05000355,Heston Central,Hounslow,Freeform_80,168.5
+E05000356,Heston East,Hounslow,Freeform_71,205.9
+E05000357,Heston West,Hounslow,Freeform_70,382.7
+E05000358,Hounslow Central,Hounslow,Freeform_83,173.4
+E05000359,Hounslow Heath,Hounslow,Freeform_78,278.2
+E05000360,Hounslow South,Hounslow,Freeform_81,179
+E05000361,Hounslow West,Hounslow,Freeform_79,162
+E05000362,Isleworth,Hounslow,Freeform_82,203.1
+E05000363,Osterley and Spring Grove,Hounslow,Freeform_72,627.8
+E05000364,Syon,Hounslow,Freeform_69,285.4
+E05000365,Turnham Green,Hounslow,Freeform_85,177
+E05000366,Barnsbury,Islington,Freeform_549,83
+E05000367,Bunhill,Islington,Freeform_546,108.3
+E05000368,Caledonian,Islington,Freeform_540,113.6
+E05000369,Canonbury,Islington,Freeform_548,80.7
+E05000370,Clerkenwell,Islington,Freeform_539,93.3
+E05000371,Finsbury Park,Islington,Freeform_552,91.6
+E05000372,Highbury East,Islington,Freeform_543,100.8
+E05000373,Highbury West,Islington,Freeform_544,108.3
+E05000374,Hillrise,Islington,Freeform_553,82.5
+E05000375,Holloway,Islington,Freeform_542,100.9
+E05000376,Junction,Islington,Freeform_551,102.8
+E05000377,Mildmay,Islington,Freeform_554,82.7
+E05000378,St. George's,Islington,Freeform_550,84.6
+E05000379,St. Mary's,Islington,Freeform_541,86.8
+E05000380,St. Peter's,Islington,Freeform_547,81.1
+E05000381,Tollington,Islington,Freeform_545,84.9
+E05000382,Abingdon,Kensington and Chelsea,Freeform_474,63.1
+E05000383,Brompton,Kensington and Chelsea,Freeform_473,95.5
+E05000384,Campden,Kensington and Chelsea,Freeform_483,91.4
+E05000385,Colville,Kensington and Chelsea,Freeform_477,39.2
+E05000386,Courtfield,Kensington and Chelsea,Freeform_480,47.8
+E05000387,Cremorne,Kensington and Chelsea,Freeform_466,61
+E05000388,Earl's Court,Kensington and Chelsea,Freeform_479,45.8
+E05000389,Golborne,Kensington and Chelsea,Freeform_469,94.4
+E05000390,Hans Town,Kensington and Chelsea,Freeform_482,55.2
+E05000391,Holland,Kensington and Chelsea,Freeform_467,103.9
+E05000392,Norland,Kensington and Chelsea,Freeform_468,72.4
+E05000393,Notting Barns,Kensington and Chelsea,Freeform_476,62.3
+E05000394,Pembridge,Kensington and Chelsea,Freeform_475,48.9
+E05000395,Queen's Gate,Kensington and Chelsea,Freeform_481,60.6
+E05000396,Redcliffe,Kensington and Chelsea,Freeform_470,69.6
+E05000397,Royal Hospital,Kensington and Chelsea,Freeform_472,90.1
+E05000398,St. Charles,Kensington and Chelsea,Freeform_478,70.8
+E05000399,Stanley,Kensington and Chelsea,Freeform_471,66.2
+E05000400,Alexandra,Kingston upon Thames,Freeform_7,268.5
+E05000401,Berrylands,Kingston upon Thames,Freeform_6,145.4
+E05000402,Beverley,Kingston upon Thames,Freeform_8,187.8
+E05000403,Canbury,Kingston upon Thames,Freeform_15,124.2
+E05000404,Chessington North and Hook,Kingston upon Thames,Freeform_10,193
+E05000405,Chessington South,Kingston upon Thames,Freeform_4,755.2
+E05000406,Coombe Hill,Kingston upon Thames,Freeform_9,442.2
+E05000407,Coombe Vale,Kingston upon Thames,Freeform_17,164.7
+E05000408,Grove,Kingston upon Thames,Freeform_14,192
+E05000409,Norbiton,Kingston upon Thames,Freeform_16,134.7
+E05000410,Old Malden,Kingston upon Thames,Freeform_12,180
+E05000411,St. James,Kingston upon Thames,Freeform_18,216.6
+E05000412,St. Mark's,Kingston upon Thames,Freeform_13,137.6
+E05000413,Surbiton Hill,Kingston upon Thames,Freeform_11,166.5
+E05000414,Tolworth and Hook Rise,Kingston upon Thames,Freeform_5,259.5
+E05000415,Tudor,Kingston upon Thames,Freeform_19,158.3
+E05000416,Bishop's,Lambeth,Freeform_230,154
+E05000417,Brixton Hill,Lambeth,Freeform_220,113.1
+E05000418,Clapham Common,Lambeth,Freeform_219,133.9
+E05000419,Clapham Town,Lambeth,Freeform_231,111.9
+E05000420,Coldharbour,Lambeth,Freeform_222,120.8
+E05000421,Ferndale,Lambeth,Freeform_223,85.1
+E05000422,Gipsy Hill,Lambeth,Freeform_227,157.1
+E05000423,Herne Hill,Lambeth,Freeform_229,203
+E05000424,Knight's Hill,Lambeth,Freeform_216,147.2
+E05000425,Larkhall,Lambeth,Freeform_224,106.1
+E05000426,Oval,Lambeth,Freeform_225,127.8
+E05000427,Prince's,Lambeth,Freeform_233,116.4
+E05000428,St. Leonard's,Lambeth,Freeform_214,144.8
+E05000429,Stockwell,Lambeth,Freeform_232,86.7
+E05000430,Streatham Hill,Lambeth,Freeform_218,127.1
+E05000431,Streatham South,Lambeth,Freeform_213,169.8
+E05000432,Streatham Wells,Lambeth,Freeform_215,145
+E05000433,Thornton,Lambeth,Freeform_217,107.8
+E05000434,Thurlow Park,Lambeth,Freeform_228,151.5
+E05000435,Tulse Hill,Lambeth,Freeform_221,103.2
+E05000436,Vassall,Lambeth,Freeform_226,113
+E05000437,Bellingham,Lewisham,Freeform_255,308.5
+E05000438,Blackheath,Lewisham,Freeform_259,231.8
+E05000439,Brockley,Lewisham,Freeform_268,168.2
+E05000440,Catford South,Lewisham,Freeform_264,186.7
+E05000441,Crofton Park,Lewisham,Freeform_265,172
+E05000442,Downham,Lewisham,Freeform_257,238.2
+E05000443,Evelyn,Lewisham,Freeform_272,177.6
+E05000444,Forest Hill,Lewisham,Freeform_261,182.8
+E05000445,Grove Park,Lewisham,Freeform_270,239.3
+E05000446,Ladywell,Lewisham,Freeform_266,160.6
+E05000447,Lee Green,Lewisham,Freeform_271,179.8
+E05000448,Lewisham Central,Lewisham,Freeform_267,206.2
+E05000449,New Cross,Lewisham,Freeform_269,181.1
+E05000450,Perry Vale,Lewisham,Freeform_262,168.5
+E05000451,Rushey Green,Lewisham,Freeform_263,178.5
+E05000452,Sydenham,Lewisham,Freeform_260,174.4
+E05000453,Telegraph Hill,Lewisham,Freeform_256,154.6
+E05000454,Whitefoot,Lewisham,Freeform_258,223
+E05000455,Abbey,Merton,Freeform_421,139.3
+E05000456,Cannon Hill,Merton,Freeform_410,222.3
+E05000457,Colliers Wood,Merton,Freeform_429,111.1
+E05000458,Cricket Green,Merton,Freeform_411,299.6
+E05000459,Dundonald,Merton,Freeform_417,115.2
+E05000460,Figge's Marsh,Merton,Freeform_422,114.2
+E05000461,Graveney,Merton,Freeform_424,88.2
+E05000462,Hillside,Merton,Freeform_426,118.9
+E05000463,Lavender Fields,Merton,Freeform_428,118
+E05000464,Longthornton,Merton,Freeform_425,148.3
+E05000465,Lower Morden,Merton,Freeform_414,180.4
+E05000466,Merton Park,Merton,Freeform_420,181.4
+E05000467,Pollards Hill,Merton,Freeform_423,216.3
+E05000468,Ravensbury,Merton,Freeform_419,184
+E05000469,Raynes Park,Merton,Freeform_416,185.7
+E05000470,St. Helier,Merton,Freeform_418,184.5
+E05000471,Trinity,Merton,Freeform_427,107.6
+E05000472,Village,Merton,Freeform_412,621.3
+E05000473,West Barnes,Merton,Freeform_415,195.2
+E05000474,Wimbledon Park,Merton,Freeform_413,231
+E05000475,Beckton,Newham,Freeform_595,625.2
+E05000476,Boleyn,Newham,Freeform_604,91.7
+E05000477,Canning Town North,Newham,Freeform_594,252.1
+E05000478,Canning Town South,Newham,Freeform_598,180.9
+E05000479,Custom House,Newham,Freeform_599,206.3
+E05000480,East Ham Central,Newham,Freeform_605,103.2
+E05000481,East Ham North,Newham,Freeform_609,90.5
+E05000482,East Ham South,Newham,Freeform_596,180.9
+E05000483,Forest Gate North,Newham,Freeform_611,124.8
+E05000484,Forest Gate South,Newham,Freeform_603,119.1
+E05000485,Green Street East,Newham,Freeform_608,74.6
+E05000486,Green Street West,Newham,Freeform_607,80.3
+E05000487,Little Ilford,Newham,Freeform_613,190
+E05000488,Manor Park,Newham,Freeform_612,133.5
+E05000489,Plaistow North,Newham,Freeform_602,98.4
+E05000490,Plaistow South,Newham,Freeform_600,138.5
+E05000491,Royal Docks,Newham,Freeform_593,473.1
+E05000492,Stratford and New Town,Newham,Freeform_597,423.5
+E05000493,Wall End,Newham,Freeform_610,137.7
+E05000494,West Ham,Newham,Freeform_601,133.7
+E05000495,Aldborough,Redbridge,Freeform_358,860
+E05000496,Barkingside,Redbridge,Freeform_369,152.9
+E05000497,Bridge,Redbridge,Freeform_359,257.9
+E05000498,Chadwell,Redbridge,Freeform_371,151.3
+E05000499,Church End,Redbridge,Freeform_368,148.5
+E05000500,Clayhall,Redbridge,Freeform_367,249.4
+E05000501,Clementswood,Redbridge,Freeform_362,127.2
+E05000502,Cranbrook,Redbridge,Freeform_353,240.1
+E05000503,Fairlop,Redbridge,Freeform_356,359.6
+E05000504,Fullwell,Redbridge,Freeform_370,218.8
+E05000505,Goodmayes,Redbridge,Freeform_357,164
+E05000506,Hainault,Redbridge,Freeform_360,565.3
+E05000507,Loxford,Redbridge,Freeform_361,128.8
+E05000508,Mayfield,Redbridge,Freeform_363,188.2
+E05000509,Monkhams,Redbridge,Freeform_372,307.7
+E05000510,Newbury,Redbridge,Freeform_354,212
+E05000511,Roding,Redbridge,Freeform_355,236.3
+E05000512,Seven Kings,Redbridge,Freeform_365,208.3
+E05000513,Snaresbrook,Redbridge,Freeform_366,198.5
+E05000514,Valentines,Redbridge,Freeform_364,150.3
+E05000515,Wanstead,Redbridge,Freeform_352,519.1
+E05000516,Barnes,Richmond upon Thames,Freeform_409,301
+E05000517,East Sheen,Richmond upon Thames,Freeform_399,583.3
+E05000518,Fulwell and Hampton Hill,Richmond upon Thames,Freeform_402,191.8
+E05000519,"Ham, Petersham and Richmond Riverside",Richmond upon Thames,Freeform_396,943.3
+E05000520,Hampton,Richmond upon Thames,Freeform_391,687.7
+E05000521,Hampton North,Richmond upon Thames,Freeform_401,195
+E05000522,Hampton Wick,Richmond upon Thames,Freeform_393,274.6
+E05000523,Heathfield,Richmond upon Thames,Freeform_394,191.1
+E05000524,Kew,Richmond upon Thames,Freeform_398,357.6
+E05000525,Mortlake and Barnes Common,Richmond upon Thames,Freeform_400,193.6
+E05000526,North Richmond,Richmond upon Thames,Freeform_397,280.1
+E05000527,St. Margarets and North Twickenham,Richmond upon Thames,Freeform_407,200.8
+E05000528,South Richmond,Richmond upon Thames,Freeform_408,269.1
+E05000529,South Twickenham,Richmond upon Thames,Freeform_406,172.7
+E05000530,Teddington,Richmond upon Thames,Freeform_392,429.6
+E05000531,Twickenham Riverside,Richmond upon Thames,Freeform_395,196.4
+E05000532,West Twickenham,Richmond upon Thames,Freeform_403,245.9
+E05000533,Whitton,Richmond upon Thames,Freeform_404,162.6
+E05000534,Brunswick Park,Southwark,Freeform_241,93.4
+E05000535,Camberwell Green,Southwark,Freeform_240,97.5
+E05000536,Cathedrals,Southwark,Freeform_250,176.8
+E05000537,Chaucer,Southwark,Freeform_254,82
+E05000538,College,Southwark,Freeform_234,323.3
+E05000539,East Dulwich,Southwark,Freeform_238,102.1
+E05000540,East Walworth,Southwark,Freeform_247,114.7
+E05000541,Faraday,Southwark,Freeform_246,87.8
+E05000542,Grange,Southwark,Freeform_251,121.5
+E05000543,Livesey,Southwark,Freeform_248,143.8
+E05000544,Newington,Southwark,Freeform_245,83.4
+E05000545,Nunhead,Southwark,Freeform_243,132.8
+E05000546,Peckham,Southwark,Freeform_244,87
+E05000547,Peckham Rye,Southwark,Freeform_239,225.2
+E05000548,Riverside,Southwark,Freeform_235,132.8
+E05000549,Rotherhithe,Southwark,Freeform_252,149.1
+E05000550,South Bermondsey,Southwark,Freeform_249,97.4
+E05000551,South Camberwell,Southwark,Freeform_237,133.1
+E05000552,Surrey Docks,Southwark,Freeform_253,190.1
+E05000553,The Lane,Southwark,Freeform_242,138.9
+E05000554,Village,Southwark,Freeform_236,278.7
+E05000555,Beddington North,Sutton,Freeform_390,498.8
+E05000556,Beddington South,Sutton,Freeform_375,306.1
+E05000557,Belmont,Sutton,Freeform_378,233.3
+E05000558,Carshalton Central,Sutton,Freeform_384,202.4
+E05000559,Carshalton South and Clockhouse,Sutton,Freeform_373,705.3
+E05000560,Cheam,Sutton,Freeform_374,393
+E05000561,Nonsuch,Sutton,Freeform_379,190.7
+E05000562,St. Helier,Sutton,Freeform_376,149.7
+E05000563,Stonecot,Sutton,Freeform_386,198.4
+E05000564,Sutton Central,Sutton,Freeform_383,131
+E05000565,Sutton North,Sutton,Freeform_385,187.4
+E05000566,Sutton South,Sutton,Freeform_381,127.2
+E05000567,Sutton West,Sutton,Freeform_382,178.2
+E05000568,The Wrythe,Sutton,Freeform_387,148.4
+E05000569,Wallington North,Sutton,Freeform_389,161.9
+E05000570,Wallington South,Sutton,Freeform_388,171.8
+E05000571,Wandle Valley,Sutton,Freeform_377,205.4
+E05000572,Worcester Park,Sutton,Freeform_380,195.7
+E05000573,Bethnal Green North,Tower Hamlets,Freeform_529,82.5
+E05000574,Bethnal Green South,Tower Hamlets,Freeform_527,88.2
+E05000575,Blackwall and Cubitt Town,Tower Hamlets,Freeform_523,296.7
+E05000576,Bow East,Tower Hamlets,Freeform_535,186.6
+E05000577,Bow West,Tower Hamlets,Freeform_534,134.3
+E05000578,Bromley-by-Bow,Tower Hamlets,Freeform_533,107.1
+E05000579,East India and Lansbury,Tower Hamlets,Freeform_532,122.3
+E05000580,Limehouse,Tower Hamlets,Freeform_526,114.3
+E05000581,Mile End and Globe Town,Tower Hamlets,Freeform_528,90
+E05000582,Mile End East,Tower Hamlets,Freeform_531,107.1
+E05000583,Millwall,Tower Hamlets,Freeform_522,245.8
+E05000584,St. Dunstan's and Stepney Green,Tower Hamlets,Freeform_530,101.8
+E05000585,St. Katharine's and Wapping,Tower Hamlets,Freeform_525,150.9
+E05000586,Shadwell,Tower Hamlets,Freeform_524,96.2
+E05000587,Spitalfields and Banglatown,Tower Hamlets,Freeform_537,63.8
+E05000588,Weavers,Tower Hamlets,Freeform_538,77.6
+E05000589,Whitechapel,Tower Hamlets,Freeform_536,92.1
+E05000590,Cann Hall,Waltham Forest,Freeform_347,85.8
+E05000591,Cathall,Waltham Forest,Freeform_337,105.7
+E05000592,Chapel End,Waltham Forest,Freeform_345,185
+E05000593,Chingford Green,Waltham Forest,Freeform_336,372.7
+E05000594,Endlebury,Waltham Forest,Freeform_349,194.9
+E05000595,Forest,Waltham Forest,Freeform_341,198.6
+E05000596,Grove Green,Waltham Forest,Freeform_340,89.6
+E05000597,Hale End and Highams Park,Waltham Forest,Freeform_346,234.7
+E05000598,Hatch Lane,Waltham Forest,Freeform_350,241.6
+E05000599,High Street,Waltham Forest,Freeform_333,305.9
+E05000600,Higham Hill,Waltham Forest,Freeform_334,322.1
+E05000601,Hoe Street,Waltham Forest,Freeform_343,110
+E05000602,Larkswood,Waltham Forest,Freeform_348,206.6
+E05000603,Lea Bridge,Waltham Forest,Freeform_338,264.7
+E05000604,Leyton,Waltham Forest,Freeform_332,203.2
+E05000605,Leytonstone,Waltham Forest,Freeform_351,130.6
+E05000606,Markhouse,Waltham Forest,Freeform_339,145.7
+E05000607,Valley,Waltham Forest,Freeform_335,198.5
+E05000608,William Morris,Waltham Forest,Freeform_342,99.9
+E05000609,Wood Street,Waltham Forest,Freeform_344,185
+E05000610,Balham,Wandsworth,Freeform_443,121.2
+E05000611,Bedford,Wandsworth,Freeform_442,180.5
+E05000612,Earlsfield,Wandsworth,Freeform_439,140.3
+E05000613,East Putney,Wandsworth,Freeform_435,161
+E05000614,Fairfield,Wandsworth,Freeform_444,145.4
+E05000615,Furzedown,Wandsworth,Freeform_441,141.5
+E05000616,Graveney,Wandsworth,Freeform_436,101.1
+E05000617,Latchmere,Wandsworth,Freeform_446,108.3
+E05000618,Nightingale,Wandsworth,Freeform_440,123.2
+E05000619,Northcote,Wandsworth,Freeform_445,167.5
+E05000620,Queenstown,Wandsworth,Freeform_448,320.5
+E05000621,Roehampton and Putney Heath,Wandsworth,Freeform_430,442.4
+E05000622,St. Mary's Park,Wandsworth,Freeform_447,139.7
+E05000623,Shaftesbury,Wandsworth,Freeform_449,94.8
+E05000624,Southfields,Wandsworth,Freeform_438,152.5
+E05000625,Thamesfield,Wandsworth,Freeform_431,192.2
+E05000626,Tooting,Wandsworth,Freeform_437,160
+E05000627,Wandsworth Common,Wandsworth,Freeform_432,276.5
+E05000628,West Hill,Wandsworth,Freeform_433,168.6
+E05000629,West Putney,Wandsworth,Freeform_434,184.8
+E05000630,Abbey Road,Westminster,Freeform_494,109.5
+E05000631,Bayswater,Westminster,Freeform_497,51.9
+E05000632,Bryanston and Dorset Square,Westminster,Freeform_492,72.3
+E05000633,Churchill,Westminster,Freeform_488,60.9
+E05000634,Church Street,Westminster,Freeform_503,44.3
+E05000635,Harrow Road,Westminster,Freeform_491,49.5
+E05000636,Hyde Park,Westminster,Freeform_487,95.5
+E05000637,Knightsbridge and Belgravia,Westminster,Freeform_486,359.4
+E05000638,Lancaster Gate,Westminster,Freeform_485,63.1
+E05000639,Little Venice,Westminster,Freeform_501,63.7
+E05000640,Maida Vale,Westminster,Freeform_502,64.6
+E05000641,Marylebone High Street,Westminster,Freeform_495,100.1
+E05000642,Queen's Park,Westminster,Freeform_496,58.4
+E05000643,Regent's Park,Westminster,Freeform_493,225.6
+E05000644,St. James's,Westminster,Freeform_484,346.4
+E05000645,Tachbrook,Westminster,Freeform_499,44.3
+E05000646,Vincent Square,Westminster,Freeform_489,68.4
+E05000647,Warwick,Westminster,Freeform_498,57.4
+E05000648,Westbourne,Westminster,Freeform_500,67.6
+E05000649,West End,Westminster,Freeform_490,200
